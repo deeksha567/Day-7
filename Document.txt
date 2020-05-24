@@ -1,6 +1,10 @@
 A program which is based on voice assistant using python
-it is used to implement following tasks:
+Libraries used :-
+1. pyttsx3
+2. SpeechRecognition
+3. Wikipedia
 
+it is used to implement following tasks:
 1.Search Google
 2.Search Wikipedia 
 3.YouTube 

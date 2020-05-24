@@ -1,0 +1,13 @@
+A program which is based on voice assistant using python
+it is used to implement following tasks:
+
+1.Search Google
+2.Search Wikipedia 
+3.YouTube 
+4.Search stackoverflow
+5.Play music
+6.Tell us the current time
+7.Sending Emails etc 
+
+it can be operated by giving a voice command to it.
+
